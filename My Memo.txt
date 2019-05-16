@@ -55,3 +55,6 @@ http://sone1gx2/xpoint/ssologin.do?domainCd=dom01&LoginId=uid6362&Forward=wkfl
 
 Awesome AR Sample
 https://github.com/olucurious/Awesome-ARKit#tutorials
+
+A re-introduction to javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
