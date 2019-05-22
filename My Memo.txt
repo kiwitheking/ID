@@ -58,3 +58,6 @@ https://github.com/olucurious/Awesome-ARKit#tutorials
 
 A re-introduction to javascript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+ID maymar Interview
+https://www3.nhk.or.jp/nhkworld/en/vod/yourconnection/2076002/
