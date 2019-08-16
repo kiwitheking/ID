@@ -61,3 +61,22 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_Jav
 
 ID maymar Interview
 https://www3.nhk.or.jp/nhkworld/en/vod/yourconnection/2076002/
+
+Wijimo Guide
+https://www.grapecity.com/wijmo/docs/GettingStarted/QuickStart/QuickStart-React
+
+Build a customer management app using Nest.js, Vue.js and MongoDB Mongoose
+https://scotch.io/tutorials/building-a-modern-app-using-nestjs-mongodb-and-vuejs
+https://github.com/yemiwebby/nest-customer-list-app
+
+HOW TO CONSUME A RESTFUL API IN REACT
+https://pusher.com/tutorials/consume-restful-api-react
+
+Great Markdown Samples
+https://markdown-it.github.io/
+
+Node authentication
+https://www.djamware.com/post/58eba06380aca72673af8500/node-express-mongoose-and-passportjs-rest-api-authentication
+
+# Best Guild about how to use Git 
+https://rogerdudler.github.io/git-guide/index.html
